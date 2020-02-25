@@ -1,6 +1,15 @@
 # pygments-styles
 
-A set of custom Pygments styles.
+A set of custom [Pygments](https://pygments.org/) styles.
+
+## Quick start
+
+```
+$ pip install Pygments (if necessary)
+$ git clone https://github.com/joaopalmeiro/pygments-styles.git
+$ cd pygments-styles
+$ sudo python setup.py install
+```
 
 ## Acknowledgments
 
